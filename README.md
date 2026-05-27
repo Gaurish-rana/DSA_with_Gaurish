@@ -1,3 +1,3 @@
-# DSA - Arrays (Easy)
+# DSA 
 
-This folder contains beginner-friendly Array problems in C++ for Data Structures and Algorithms (DSA) practice.
+This folder contains all DSA problems in C++ for Data Structures and Algorithms (DSA) practice.
